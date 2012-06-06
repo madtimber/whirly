@@ -18,8 +18,8 @@ Create a new instance and 'start' it:
 
 Initialization Fields
 ==========
-* delay: `optional, in miliseconds, defaults to 6 seconds (6000ms)`
-* panels: `required, array of strings of HTML ids that represent your panels
+* `delay`: optional, in miliseconds, defaults to 6 seconds (6000ms)
+* `panels``: required, array of strings of HTML ids that represent your panels
 
 API
 ========
