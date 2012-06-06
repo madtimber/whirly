@@ -6,6 +6,7 @@ IDs of 'panels' that you'd like to revolve through, call start(), and it handles
 Usage
 ========
 Include the file as such:
+
     <script src="whirly.js" type="text/javascript"></script>
 
 Create a new instance and 'start' it:
